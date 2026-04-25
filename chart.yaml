@@ -2,4 +2,4 @@ apiVersion: v2
 name: nginx    #name of the chart 
 version: 0.0.2  #This is chart version
 appVersion: 1.29.8 # This is the version of the app thet this contains (like catalogue verssion)
-description: "upgrading to 1.29.8"
+description: "upgrading to 1.29.8 "
